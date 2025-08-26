@@ -1,7 +1,7 @@
 # 🚀 PowerDashX  
 
 ### 📊 Overview  
-**PowerDashX** is a portfolio project that demonstrates how to build **modern, interactive dashboards in Power BI** using advanced **DAX calculations, data modeling, and storytelling techniques**.  
+**PowerDashX** is a  project that demonstrates how to build **modern, interactive dashboards in Power BI** using advanced **DAX calculations, data modeling, and storytelling techniques**.  
 The goal of this project is to show how data can be transformed into **clear business insights** for decision-makers.  
 
 ---
@@ -57,7 +57,7 @@ Most dashboards stop at charts. PowerDashX goes further by combining:
    cd PowerDashX
    ```
 2. **Open Power BI Desktop and load the PowerDashX.pbix file**
-3.**Explore the dashboard by using slicers, bookmarks, and drill-throughs**
+3. **Explore the dashboard by using slicers, bookmarks, and drill-throughs**
 
 ---
 
@@ -67,7 +67,6 @@ Most dashboards stop at charts. PowerDashX goes further by combining:
 - How to design dashboards that serve both executives and analysts
 - Building reusable DAX measures for KPIs
 - Applying bookmarks & storytelling for engaging reports
-- Structuring a BI project like a professional portfolio showcase
 
 ---
 
