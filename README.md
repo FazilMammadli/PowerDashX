@@ -1,4 +1,4 @@
-# **Power-BI-Mastery-Dynamic-Dashboards-Advanced-DAX**  
+# **PowerDashX**  
 
 ### 📊 **Project Overview**  
 This project showcases an **Advanced Power BI Sales Dashboard**, incorporating **dynamic bookmarks, complex DAX calculations, and interactive storytelling techniques** to analyze business sales performance. Designed to **track key financial metrics**, the dashboard provides insights for both **executive-level decision-making** and **operational-level performance analysis**.  
@@ -6,7 +6,7 @@ This project showcases an **Advanced Power BI Sales Dashboard**, incorporating *
 ---
 
 ## **📊 Dashboard Preview**  
-[Click to view dashboard via Power BI web Link](https://app.powerbi.com/view?r=eyJrIjoiNTQ0YTllMGItMjUxNi00ZDdiLThmZmUtMGQxNWI4ODdkMGExIiwidCI6IjY3NmQ5MDg1LTQzMjMtNDc2NS1iZTVjLWNjMDdlMTEyMTA5MiJ9) 
+
 
 <div style="display: flex; flex-direction: row;">
   <img src="Icons & Screenshots/Dashboard.gif" alt="Dashboard" width="400" style="margin-right: 20px;">
@@ -121,13 +121,7 @@ git clone https://github.com/yourusername/Sales-Performance-Analysis.git
 ✅ **Businesses & Clients** – Gain insights into sales trends & data-driven decision-making  
 
 ---
-
-## **📢 Connect With Me**  
-🔗 **LinkedIn:** [Connect](https://www.linkedin.com/in/israeljosiah/)  
-🔗 **Portfolio:** [Portfolio Link](https://www.datascienceportfol.io/IsraelJosiah)  
-📧 **Email:** Israeljvow@gmail.com  
-
-🙌 If you find this project useful, don't forget to ⭐ **star** the repository! 🚀  
+ 
 
 ---
 
