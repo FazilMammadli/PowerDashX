@@ -44,10 +44,8 @@ Most dashboards stop at charts. PowerDashX goes further by combining:
 ---
 
 ## 📸 Dashboard Preview  
-*(Add a GIF or screenshot of your dashboard here)*  
-```html
-<img src="Assets/dashboard-preview.png" alt="PowerDashX Dashboard" width="500">
-```
+
+(https://github.com/FazilMammadli/PowerDashX/blob/main/Dashboard.gif)
 ---
 
 ## 🚀 Getting Started  
