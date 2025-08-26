@@ -29,7 +29,8 @@ Most dashboards stop at charts. PowerDashX goes further by combining:
 │── 📂 Data          # Demo datasets  
 │── 📂 Reports       # Power BI .pbix file  
 │── 📂 Assets        # Icons, images, screenshots  
-│── 📜 README.md     # Documentation (this file)  
+│── 📜 README.md     # Documentation (this file)
+```
 
 ---
 
@@ -46,3 +47,31 @@ Most dashboards stop at charts. PowerDashX goes further by combining:
 *(Add a GIF or screenshot of your dashboard here)*  
 ```html
 <img src="Assets/dashboard-preview.png" alt="PowerDashX Dashboard" width="500">
+```
+---
+
+## 🚀 Getting Started  
+1. **Clone the repo**  
+   ```bash
+   git clone https://github.com/FazilMammadli/PowerDashX.git
+   cd PowerDashX
+   ```
+2. **Open Power BI Desktop and load the PowerDashX.pbix file**
+3.**Explore the dashboard by using slicers, bookmarks, and drill-throughs**
+
+---
+
+
+## Key Learnings
+
+- How to design dashboards that serve both executives and analysts
+- Building reusable DAX measures for KPIs
+- Applying bookmarks & storytelling for engaging reports
+- Structuring a BI project like a professional portfolio showcase
+
+---
+
+
+
+
+
